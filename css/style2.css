@@ -1,0 +1,91 @@
+body {
+  background-color: #66BFBF;
+  margin: 0;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+h1 {
+  color: #E4F9F5;
+  font-family: 'Lobster', cursive;
+  font-size: 3.7rem;
+  line-height: 2;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.container {
+  height: 450px;
+  width: 700px;
+  background-color: #ffd571;
+  position: relative;
+  margin: 0 auto 0 auto;
+}
+
+
+.username {
+  position: absolute;
+  left: 30px;
+  margin-top: 30px;
+  height: 30px;
+  width: 250px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+.mail {
+  position: absolute;
+  left: 30px;
+  margin-top: 70px;
+  height: 30px;
+  width: 250px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+::placeholder {
+  padding: 20px 20px 20px 20px;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.phno {
+  position: absolute;
+  left: 30px;
+  margin-top: 110px;
+  height: 30px;
+  width: 250px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem
+}
+
+.pswd {
+  position: absolute;
+  top: 205px;
+  left: 30px;
+  height: 30px;
+  width: 250px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+.btn {
+  display: inline-block;
+  position: relative;
+  margin: auto 0 auto 0;
+  top: 200px;
+  padding: 10px 10px 10px 10px;
+  font-size: 1.3rem;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #E4F9F5;
+  font-weight:bold;
+}
+.signup{
+  margin-top: 200px;
+  padding: 10px 10px 10px 10px;
+  font-size: 1.3rem;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #E4F9F5;
+  
+
+}

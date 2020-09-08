@@ -1,0 +1,18 @@
+body {
+  background-color: #66BFBF;
+  margin: 0;
+}
+
+.top-container {
+  margin: 0;
+  height: 80px;
+  width: auto;
+  background-color: #ffd571;
+}
+b{
+  color: #E4F9F5;
+  font-size: 3.5rem;
+  font-family: 'Lobster', cursive;
+  padding-left: 30px;
+
+}
